@@ -10,13 +10,13 @@ CQL makes it simple because you only have to write in English to get requests, a
 
 ## Understand the advantage of using CQL
 
-![Process using CQL.png](https://stoplight.io/api/v1/projects/cHJqOjEyOTA0OQ/images/7oEj28Vokg4 "Figure 1. Process using CQL")
+![image](https://user-images.githubusercontent.com/61173495/164577970-11bc49ed-9aac-4bd6-b45f-ff84d1df01e9.png "Figure 1. Process using CQL")
 
 1. Process using CQL is more straightforward and intuitive for people who are not used to code.
 2. Request made by the PO himself.
 
 
-![Process not using CQL.png](https://stoplight.io/api/v1/projects/cHJqOjEyOTA0OQ/images/z5uTY6HGTBU "Figure 2. Process using CQL")
+![image](https://user-images.githubusercontent.com/61173495/164578009-77a15c1f-5c93-40b9-b542-9c829d9e6e8b.png "Figure 2. Process using CQL")
 
 1. Process passed to a developer
 2. Following agile methodologies the process would not be in the sprint and could be deprioritized.
