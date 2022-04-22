@@ -7,9 +7,9 @@ So what is CQL? Despite the similarity, it is not the famous SQL used by develop
 
 From here you can understand more about CQL:
 
-- [What is CQL.](Introduction-cql.md)
-- [Step by Step.](Step-by-step.md)
-- [See examples of use.](Uses.md)
+- [What is CQL.](2-Introduction-cql.md)
+- [Step by Step.](3-Step-by-step.md)
+- [See examples of use.](4-Uses.md)
 - [Repository.](https://github.com/croct-tech/plug-js)
 
 
