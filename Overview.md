@@ -1,6 +1,3 @@
----
-internal: true
----
 
 # About CQL
 
