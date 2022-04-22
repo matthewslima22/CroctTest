@@ -1,6 +1,3 @@
----
-internal: true
----
 
 # Introduction
 
