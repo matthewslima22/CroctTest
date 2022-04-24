@@ -18,7 +18,7 @@ At the bottom you will see the result of the expression, which in this case is t
 
 It is possible to answer several interesting questions such as:
 
-| Question  | answer    |   
+| Question  | Answer    |   
 | ------- | -------- | 
 | Has this visitor been seen before? | user is returning    
 | What is the approximate location of the visitor?   | location's city
