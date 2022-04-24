@@ -25,4 +25,4 @@ It is possible to answer several interesting questions such as:
 | How long has it been since the session started?  | session's duration
 | Did the visitor come through a marketing campaign?  | campaign's name
 
-For more information about CQL and its uses visit [here](https://github.com/croct-tech/plug-js/blob/master/docs/quick-start.md) 
+For more information about CQL and its uses visit [here](https://github.com/croct-tech/plug-js/blob/master/docs/quick-start.md).
