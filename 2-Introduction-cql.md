@@ -16,9 +16,9 @@ CQL makes it simple because you only have to write in English to get requests, a
 2. Request made by the PO himself.
 
 
-![image](https://user-images.githubusercontent.com/61173495/164578009-77a15c1f-5c93-40b9-b542-9c829d9e6e8b.png "Figure 2. Process using CQL")
+![image](https://user-images.githubusercontent.com/61173495/164578009-77a15c1f-5c93-40b9-b542-9c829d9e6e8b.png "Figure 2. Process not using CQL")
 
-1. Process passed to a developer
+1. Process passed to a developer.
 2. Following agile methodologies the process would not be in the sprint and could be deprioritized.
 3. Priority tasks for the dev and delay in the delivery of a simple request.
 
