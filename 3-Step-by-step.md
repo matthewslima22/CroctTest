@@ -18,8 +18,8 @@ croct.plug({appId: '<APP_ID>'});
 
 **Please follow the steps below to connect the playground to CodePen:**
 
-1. Open the playground
-2. Click the "Don't have an API key?" link to proceed to sandbox mode
+1. Open the playground.
+2. Click the "Don't have an API key?" link to proceed to sandbox mode.
 3. Go [here](https://codepen.io/pen)
 4. Click on "Let's play!"
 
