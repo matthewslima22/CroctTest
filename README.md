@@ -1,7 +1,7 @@
 # CroctTest
 
-## Desafio da Croct
+## Croct Challenge
 
-Tendo como objetivo descrever sobre o CQL.
+The purpose of this documentation is to explain about CQL.
 
-Sendo o `overview` a página inicial, ele tem a funcionalidade de navegar entre todas as páginas, tornando a documentação mais intuitiva e direta para o usuário.
+The `Overview` being the start page, it has the functionality to navigate between all the pages, making the documentation more intuitive and direct for the user.
